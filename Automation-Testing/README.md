@@ -2,7 +2,7 @@
 
 This folder contains a complete Selenium automation framework built using Java & TestNG.
 
-# Framework Includes:
+# Framework Includes
 - Page Object Model (POM)
 - WebDriver & WebElement handling
 - Waits & Synchronization
@@ -11,14 +11,14 @@ This folder contains a complete Selenium automation framework built using Java &
 - TestNG (Assertions, Groups, DataProvider)
 - Extent Reports
 
-# Selenium-Project:
+# Selenium-Project
 Contains the complete automation framework:
 - **src/main/java** → Page classes, utilities  
 - **src/test/java** → Test classes  
 - **testng.xml** → TestNG suite configuration  
 - **pom.xml** → Dependencies  
 
-# Tools & Tech:
+# Tools & Tech
 - Java  
 - Selenium WebDriver  
 - TestNG    
