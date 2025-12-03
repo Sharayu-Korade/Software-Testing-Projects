@@ -18,7 +18,7 @@ Contains the complete automation framework:
 - **testng.xml** → TestNG suite configuration  
 - **pom.xml** → Dependencies  
 
-# Tools & Tech
+# Tools & Technologies Used
 - Java  
 - Selenium WebDriver  
 - TestNG    
