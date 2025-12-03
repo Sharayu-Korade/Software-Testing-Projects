@@ -3,7 +3,6 @@ This Software Testing Project showcases a complete testing lifecycle for a sampl
 
 # Manual Testing
 The manual testing portion includes:
-- Requirement Analysis
 - Test Scenarios and Test Case Design
 - Requirement Traceability Matrix (RTM)
 - Defect Reporting with Severity and Priority
