@@ -1,4 +1,4 @@
-# Software-Testing-Projects
+# Software-Testing-Projects (Manual + Automation)
 This Software Testing Project showcases a complete testing lifecycle for a sample web application, including both Manual and Automation Testing.
 
 # Manual Testing
