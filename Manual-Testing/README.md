@@ -1,3 +1,4 @@
+# Manual Testing Project
 This repository contains a complete end-to-end manual testing project for a sample e-commerce application (QuickCart). It includes test scenarios, test cases, Requirement Traceability Matrix (RTM), defect reports, and PDF summary documents.
 
 # Objective
